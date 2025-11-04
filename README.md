@@ -2,7 +2,7 @@
 A timer with analytics dashboard to help students maintain focus through customizable study sessions and data-driven insights into their productivity patterns. It's built with Python and Tkinter.
 
 
-## ✨ Features
+## Features
 
 - **Customizable Timer**: Set your own work/break intervals
 - **Productivity Analytics**: Track focus patterns with visual dashboards
@@ -10,7 +10,7 @@ A timer with analytics dashboard to help students maintain focus through customi
 - **Cross-Platform**: Works on Windows, Mac, and Linux
 - **Sound Notifications**: Customizable alert sounds
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -20,5 +20,11 @@ A timer with analytics dashboard to help students maintain focus through customi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/focus-timer-app.git
-   cd focus-timer-app
+   git clone https://github.com/Jonathan429742/study-timer-app.git
+   cd study-timer-app
+
+2. Open this folder using VS code or any other python IDE
+3. In the directory terminal run
+   pip install -r requirements.txt
+4. Run the application
+   python main.py
