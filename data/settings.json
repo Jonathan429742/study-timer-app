@@ -1,0 +1,6 @@
+{
+  "work_duration": 30,
+  "short_break_duration": 5,
+  "long_break_duration": 15,
+  "sessions_before_long_break": 1
+}

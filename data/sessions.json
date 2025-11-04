@@ -1,0 +1,168 @@
+{
+  "metadata": {
+    "last_updated": "2025-11-03T05:15:11.361632",
+    "total_sessions": 16
+  },
+  "sessions": [
+    {
+      "id": 1,
+      "date": "2025-09-29",
+      "start_time": "16:09:54",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-09-29T16:09:54.922137"
+    },
+    {
+      "id": 2,
+      "date": "2025-09-29",
+      "start_time": "16:11:11",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-09-29T16:11:11.614866"
+    },
+    {
+      "id": 3,
+      "date": "2025-09-29",
+      "start_time": "23:21:33",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-09-29T23:21:33.622590"
+    },
+    {
+      "id": 4,
+      "date": "2025-09-29",
+      "start_time": "23:21:51",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-09-29T23:21:51.921478"
+    },
+    {
+      "id": 5,
+      "date": "2025-10-13",
+      "start_time": "12:54:35",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-10-13T12:54:35.841081"
+    },
+    {
+      "id": 6,
+      "date": "2025-11-03",
+      "start_time": "04:30:20",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T04:30:20.441276"
+    },
+    {
+      "id": 7,
+      "date": "2025-11-03",
+      "start_time": "04:32:34",
+      "session_type": "short_break",
+      "duration": 2,
+      "completed": true,
+      "notes": "",
+      "timestamp": "2025-11-03T04:32:34.021893"
+    },
+    {
+      "id": 8,
+      "date": "2025-11-03",
+      "start_time": "04:32:56",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T04:32:56.487686"
+    },
+    {
+      "id": 9,
+      "date": "2025-11-03",
+      "start_time": "04:34:16",
+      "session_type": "short_break",
+      "duration": 1,
+      "completed": true,
+      "notes": "",
+      "timestamp": "2025-11-03T04:34:16.496997"
+    },
+    {
+      "id": 10,
+      "date": "2025-11-03",
+      "start_time": "04:36:09",
+      "session_type": "focus",
+      "duration": 1,
+      "completed": true,
+      "notes": "",
+      "timestamp": "2025-11-03T04:36:09.768750"
+    },
+    {
+      "id": 11,
+      "date": "2025-11-03",
+      "start_time": "04:36:36",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T04:36:36.207180"
+    },
+    {
+      "id": 12,
+      "date": "2025-11-03",
+      "start_time": "04:55:32",
+      "session_type": "short_break",
+      "duration": 1,
+      "completed": true,
+      "notes": "",
+      "timestamp": "2025-11-03T04:55:32.371417"
+    },
+    {
+      "id": 13,
+      "date": "2025-11-03",
+      "start_time": "04:56:49",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T04:56:49.088738"
+    },
+    {
+      "id": 14,
+      "date": "2025-11-03",
+      "start_time": "05:01:26",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T05:01:26.433112"
+    },
+    {
+      "id": 15,
+      "date": "2025-11-03",
+      "start_time": "05:05:07",
+      "session_type": "focus",
+      "duration": 0,
+      "completed": false,
+      "notes": "Skipped",
+      "timestamp": "2025-11-03T05:05:07.693316"
+    },
+    {
+      "id": 16,
+      "date": "2025-11-03",
+      "start_time": "05:15:11",
+      "session_type": "focus",
+      "duration": 1,
+      "completed": true,
+      "notes": "",
+      "timestamp": "2025-11-03T05:15:11.361561"
+    }
+  ]
+}
